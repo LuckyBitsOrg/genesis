@@ -5,7 +5,7 @@ Welcome to the **LuckyBits Genesis Configuration** repository! Here, you'll find
 ### Chain Details:
 - **Chain ID:** 777 (lucky number)
 - **Ticker:** BIT
-- **Website:** [https://luckybits.org/](https://luckybits.org/)
+- **Algorithm:** Ethash
 
 ## How to Set Up Your Node
 
